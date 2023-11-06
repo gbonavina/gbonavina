@@ -20,6 +20,19 @@ Using Kaggle Unemployment Rate database to visualize the brazilian unemployment 
 ### [Password Generator](https://github.com/gbonavina/passwordgenerator)
 Personal project for a random password generator using C, that the password is written in a .txt file for posterior uses.
 
+## 🌐 Socials:
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-leal-bonavina-8388a7267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25">
+  </a>
+  <a href="mailto:gabriellbonavina@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25">
+  </a>
+  <a href="https://www.instagram.com/gabrielbonavina/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25">
+  </a>
+</div> 
+
 <!---
 gbonavina/gbonavina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
