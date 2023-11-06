@@ -1,16 +1,3 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Matplotlib Badge Example</title>
-</head>
-<body>
-    <a href="https://matplotlib.org">
-        <img src="https://img.shields.io/pypi/v/matplotlib.svg" alt="Matplotlib Version">
-    </a>
-</body>
-</html>
-
 # Welcome to Gabriel Bonavina's GitHub Profile!
 
 Hello! 👋 I'm Gabriel Bonavina, a passionate Computer Engineering student at the Federal University of São Paulo. My interests span across a wide range of fields, including data science, electronics, robotics, and back-end development.
